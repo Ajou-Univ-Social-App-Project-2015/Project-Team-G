@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.1.1] C:\CareTogether-social5-2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:11:5-42:19
+MERGED from [com.android.support:support-v4:23.1.1] C:\CareTogether-social5-2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:13:9-36
+	android:theme
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:15:9-62
+activity#com.example.caretogether.MainActivity
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.caretogether.choooose
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:25:9-54
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:25:19-42
+activity#com.example.caretogether.replyAct
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:26:9-54
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:26:19-42
+activity#com.example.caretogether.sns
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:27:9-49
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:27:19-37
+activity#com.example.caretogether.care
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:28:9-50
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:28:19-38
+activity#com.example.caretogether.care_other
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:29:9-56
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:29:19-44
+activity#com.example.caretogether.weightlog
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:30:9-55
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:30:19-43
+activity#com.example.caretogether.foodlog
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:31:9-53
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:31:19-41
+activity#com.example.caretogether.exerciselog
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:32:9-57
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:32:19-45
+activity#com.example.caretogether.bloodtmplog
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:33:9-57
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:33:19-45
+activity#com.example.caretogether.bsugartmplog
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:34:9-58
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:34:19-46
+activity#com.example.caretogether.Chart
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:35:9-43
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:35:19-40
+activity#com.example.caretogether.Chart_other
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:36:9-49
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:36:19-46
+activity#chart.XYChartBuilder
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:37:9-57
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:37:19-54
+activity#chart.PieChartBuilder
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:38:9-58
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:38:19-55
+activity#org.achartengine.GraphicalActivity
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:39:9-71
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:39:19-68
+activity#com.example.caretogether.GeneratedChartDemo
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:40:9-56
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:40:19-53
+activity#com.example.caretogether.log
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:41:9-39
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:41:19-37
+uses-permission#android.permission.INTERNET
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:44:5-67
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:44:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:45:5-79
+	android:name
+		ADDED from C:\CareTogether-social5-2\app\src\main\AndroidManifest.xml:45:22-76

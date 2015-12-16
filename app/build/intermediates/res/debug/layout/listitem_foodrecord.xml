@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="#fff0f8ff"
+    android:layout_marginTop="5dp"
+    android:descendantFocusability="blocksDescendants">
+        <TextView
+            android:id="@+id/fr_date"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:textSize="5pt"
+            android:layout_marginRight="2dp"
+            android:background="#003399"
+            android:textColor="#ffffff"
+            android:textAlignment="center">
+        </TextView>
+
+        <TextView
+            android:id="@+id/fi_name"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:textSize="5pt"
+            android:layout_marginRight="2dp"
+            android:background="#003399"
+            android:textColor="#ffffff"
+            android:textAlignment="center">
+        </TextView>
+
+        <TextView
+            android:id="@+id/fr_amount"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:textSize="5pt"
+            android:layout_marginRight="2dp"
+            android:background="#003399"
+            android:textColor="#ffffff">
+        </TextView>
+
+        <TextView
+            android:id="@+id/fr_kal"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:textSize="5pt"
+            android:layout_marginRight="2dp"
+            android:background="#003399"
+            android:textColor="#ffffff">
+        </TextView>
+    
+       <TextView
+         android:id="@+id/fr_memo"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"    
+        android:layout_weight="1"
+        android:text="메모보기"
+        android:textSize="5pt"
+        android:background="#003399"
+        android:textColor="#ffffff">
+        </TextView>
+    </LinearLayout>
+</RelativeLayout>
+<!-- From: file:/C:/Users/kill/Documents/카카오톡%20받은%20파일/CareTogether/app/src/main/res/layout/listitem_foodrecord.xml -->

@@ -1,0 +1,458 @@
+[
+    {
+        "merged": "C:\\CareTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bloodtmplg.xml",
+        "source": "C:\\CareTogether\\app\\src\\main\\res\\layout\\bloodtmplg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\CareTogether-social\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\CareTogether (1) (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "C:\\CareTogether (1) (1)\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_foodrecord.xml",
+        "source": "C:\\CareTogether-social\\app\\src\\main\\res\\layout\\listitem_foodrecord.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sns.xml",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\layout\\activity_sns.xml"
+    },
+    {
+        "merged": "C:\\CareTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bsugartmplg.xml",
+        "source": "C:\\CareTogether\\app\\src\\main\\res\\layout\\bsugartmplg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_bloodsugarrecord.xml",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\layout\\listitem_bloodsugarrecord.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weightlg.xml",
+        "source": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\src\\main\\res\\layout\\weightlg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_bloodpressurerecord.xml",
+        "source": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\src\\main\\res\\layout\\listitem_bloodpressurerecord.xml"
+    },
+    {
+        "merged": "C:\\CareTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_bloodsugarrecord.xml",
+        "source": "C:\\CareTogether\\app\\src\\main\\res\\layout\\listitem_bloodsugarrecord.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weightlg.xml",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\layout\\weightlg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_exercise.xml",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\layout\\listitem_exercise.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chart.xml",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\layout\\chart.xml"
+    },
+    {
+        "merged": "C:\\CareTogether (1) (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_bloodsugarrecord.xml",
+        "source": "C:\\CareTogether (1) (1)\\app\\src\\main\\res\\layout\\listitem_bloodsugarrecord.xml"
+    },
+    {
+        "merged": "C:\\CareTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\foodlg.xml",
+        "source": "C:\\CareTogether\\app\\src\\main\\res\\layout\\foodlg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_bloodpressurerecord.xml",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\layout\\listitem_bloodpressurerecord.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_re.xml",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\layout\\list_re.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_bloodsugarrecord.xml",
+        "source": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\src\\main\\res\\layout\\listitem_bloodsugarrecord.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reply.xml",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\layout\\activity_reply.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weightlg.xml",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\layout\\weightlg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bsugartmplg.xml",
+        "source": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\src\\main\\res\\layout\\bsugartmplg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reply.xml",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\layout\\activity_reply.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xy_chart.xml",
+        "source": "C:\\CareTogether-social\\app\\src\\main\\res\\layout\\xy_chart.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_sns.xml",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\layout\\list_sns.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bsugartmplg.xml",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\layout\\bsugartmplg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether (1) (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_foodrecord.xml",
+        "source": "C:\\CareTogether (1) (1)\\app\\src\\main\\res\\layout\\listitem_foodrecord.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chart.xml",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\layout\\chart.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_bloodpressurerecord.xml",
+        "source": "C:\\CareTogether-social\\app\\src\\main\\res\\layout\\listitem_bloodpressurerecord.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bloodtmplg.xml",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\layout\\bloodtmplg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether (1) (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_exercise.xml",
+        "source": "C:\\CareTogether (1) (1)\\app\\src\\main\\res\\layout\\listitem_exercise.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_foodrecord.xml",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\layout\\listitem_foodrecord.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_exercise.xml",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\layout\\listitem_exercise.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bloodtmplg.xml",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\layout\\bloodtmplg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chart.xml",
+        "source": "C:\\CareTogether\\app\\src\\main\\res\\layout\\chart.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_exercise.xml",
+        "source": "C:\\CareTogether-social\\app\\src\\main\\res\\layout\\listitem_exercise.xml"
+    },
+    {
+        "merged": "C:\\CareTogether (1) (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\CareTogether (1) (1)\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xy_chart.xml",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\layout\\xy_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exerciselg.xml",
+        "source": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\src\\main\\res\\layout\\exerciselg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_bloodsugarrecord.xml",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\layout\\listitem_bloodsugarrecord.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weightlg.xml",
+        "source": "C:\\CareTogether-social\\app\\src\\main\\res\\layout\\weightlg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "C:\\CareTogether-social\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "C:\\CareTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_exercise.xml",
+        "source": "C:\\CareTogether\\app\\src\\main\\res\\layout\\listitem_exercise.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exerciselg.xml",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\layout\\exerciselg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_bloodsugarrecord.xml",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\layout\\listitem_bloodsugarrecord.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bloodtmplg.xml",
+        "source": "C:\\CareTogether-social\\app\\src\\main\\res\\layout\\bloodtmplg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\foodlg.xml",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\layout\\foodlg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_foodrecord.xml",
+        "source": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\src\\main\\res\\layout\\listitem_foodrecord.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bloodtmplg.xml",
+        "source": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\src\\main\\res\\layout\\bloodtmplg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weightlg.xml",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\layout\\weightlg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_bloodsugarrecord.xml",
+        "source": "C:\\CareTogether-social\\app\\src\\main\\res\\layout\\listitem_bloodsugarrecord.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_bloodpressurerecord.xml",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\layout\\listitem_bloodpressurerecord.xml"
+    },
+    {
+        "merged": "C:\\CareTogether (1) (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\foodlg.xml",
+        "source": "C:\\CareTogether (1) (1)\\app\\src\\main\\res\\layout\\foodlg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\foodlg.xml",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\layout\\foodlg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_bloodpressurerecord.xml",
+        "source": "C:\\CareTogether\\app\\src\\main\\res\\layout\\listitem_bloodpressurerecord.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chart.xml",
+        "source": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\src\\main\\res\\layout\\chart.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_foodrecord.xml",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\layout\\listitem_foodrecord.xml"
+    },
+    {
+        "merged": "C:\\CareTogether (1) (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exerciselg.xml",
+        "source": "C:\\CareTogether (1) (1)\\app\\src\\main\\res\\layout\\exerciselg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\foodlg.xml",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\layout\\foodlg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xy_chart.xml",
+        "source": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\src\\main\\res\\layout\\xy_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_exercise.xml",
+        "source": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\src\\main\\res\\layout\\listitem_exercise.xml"
+    },
+    {
+        "merged": "C:\\CareTogether (1) (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xy_chart.xml",
+        "source": "C:\\CareTogether (1) (1)\\app\\src\\main\\res\\layout\\xy_chart.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chart.xml",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\layout\\chart.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_exercise.xml",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\layout\\listitem_exercise.xml"
+    },
+    {
+        "merged": "C:\\CareTogether (1) (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bsugartmplg.xml",
+        "source": "C:\\CareTogether (1) (1)\\app\\src\\main\\res\\layout\\bsugartmplg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_re.xml",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\layout\\list_re.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_sns.xml",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\layout\\list_sns.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bsugartmplg.xml",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\layout\\bsugartmplg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\CareTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\CareTogether\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sns.xml",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\layout\\activity_sns.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social\\app\\build\\intermediates\\res\\merged\\debug\\layout\\foodlg.xml",
+        "source": "C:\\CareTogether-social\\app\\src\\main\\res\\layout\\foodlg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reply.xml",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\layout\\activity_reply.xml"
+    },
+    {
+        "merged": "C:\\CareTogether (1) (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bloodtmplg.xml",
+        "source": "C:\\CareTogether (1) (1)\\app\\src\\main\\res\\layout\\bloodtmplg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sns.xml",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\layout\\activity_sns.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_re.xml",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\layout\\list_re.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xy_chart.xml",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\layout\\xy_chart.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_log.xml",
+        "source": "C:\\CareTogether-social\\app\\src\\main\\res\\layout\\activity_log.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bsugartmplg.xml",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\layout\\bsugartmplg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_log.xml",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\layout\\activity_log.xml"
+    },
+    {
+        "merged": "C:\\CareTogether (1) (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chart.xml",
+        "source": "C:\\CareTogether (1) (1)\\app\\src\\main\\res\\layout\\chart.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_sns.xml",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\layout\\list_sns.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chart.xml",
+        "source": "C:\\CareTogether-social\\app\\src\\main\\res\\layout\\chart.xml"
+    },
+    {
+        "merged": "C:\\CareTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exerciselg.xml",
+        "source": "C:\\CareTogether\\app\\src\\main\\res\\layout\\exerciselg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\foodlg.xml",
+        "source": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\src\\main\\res\\layout\\foodlg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xy_chart.xml",
+        "source": "C:\\CareTogether\\app\\src\\main\\res\\layout\\xy_chart.xml"
+    },
+    {
+        "merged": "C:\\CareTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "C:\\CareTogether\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\CareTogether (1) (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weightlg.xml",
+        "source": "C:\\CareTogether (1) (1)\\app\\src\\main\\res\\layout\\weightlg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "C:\\CareTogether-social\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xy_chart.xml",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\layout\\xy_chart.xml"
+    },
+    {
+        "merged": "C:\\CareTogether (1) (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "C:\\CareTogether (1) (1)\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\CareTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_foodrecord.xml",
+        "source": "C:\\CareTogether\\app\\src\\main\\res\\layout\\listitem_foodrecord.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_log.xml",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\layout\\activity_log.xml"
+    },
+    {
+        "merged": "C:\\CareTogether (1) (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_bloodpressurerecord.xml",
+        "source": "C:\\CareTogether (1) (1)\\app\\src\\main\\res\\layout\\listitem_bloodpressurerecord.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_bloodpressurerecord.xml",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\layout\\listitem_bloodpressurerecord.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_log.xml",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\layout\\activity_log.xml"
+    },
+    {
+        "merged": "C:\\CareTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "C:\\CareTogether\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bloodtmplg.xml",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\layout\\bloodtmplg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exerciselg.xml",
+        "source": "C:\\CareTogether-social\\app\\src\\main\\res\\layout\\exerciselg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exerciselg.xml",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\layout\\exerciselg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_foodrecord.xml",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\layout\\listitem_foodrecord.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bsugartmplg.xml",
+        "source": "C:\\CareTogether-social\\app\\src\\main\\res\\layout\\bsugartmplg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\CareTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weightlg.xml",
+        "source": "C:\\CareTogether\\app\\src\\main\\res\\layout\\weightlg.xml"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exerciselg.xml",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\layout\\exerciselg.xml"
+    }
+]

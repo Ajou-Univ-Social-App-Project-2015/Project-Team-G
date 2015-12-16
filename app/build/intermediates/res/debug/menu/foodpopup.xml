@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.caretogether.foodlog" >
+
+    <item android:id="@+id/food1"
+        android:title="" />
+
+    <item android:id="@+id/food2"
+        android:title="" />
+
+    <item android:id="@+id/food3"
+        android:title="" />
+
+</menu>
+<!-- From: file:/C:/Users/kill/Documents/카카오톡%20받은%20파일/CareTogether/app/src/main/res/menu/foodpopup.xml -->

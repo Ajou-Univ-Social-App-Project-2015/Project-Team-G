@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set  xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <translate
+        android:duration="500"
+        android:fromXDelta = "0%"
+        android:fromYDelta="-150%"
+        android:toXDelta="0%"
+        android:toYDelta="0%"
+        
+        />
+        
+    
+    
+    </set><!-- From: file:/C:/Users/kill/Documents/카카오톡%20받은%20파일/CareTogether/app/src/main/res/anim/move1.xml -->

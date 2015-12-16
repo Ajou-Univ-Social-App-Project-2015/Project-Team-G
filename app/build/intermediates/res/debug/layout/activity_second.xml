@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <FrameLayout 
+        android:id="@+id/frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#fff0f8ff"
+        >
+        <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:orientation="horizontal"
+            android:background="#0066cc"
+            >
+            <Button
+                android:id="@+id/write"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1.3"                
+                android:text="기록하기"
+                android:textSize="6pt"
+                android:background="#0066cc"
+                android:textColor="#ffffffff"
+                ></Button>
+            <Button
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:layout_weight="1"
+               android:layout_gravity="center"
+               android:text="CareTogether"
+               android:textSize="8pt"
+               android:textColor="#003399"
+               android:background="#fff0f8ff"
+                ></Button>
+            <Button
+                android:id="@+id/logout2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1.3"             
+                android:text="로그아웃"
+                android:textSize="6pt"
+                android:background="#0066cc"
+                android:textColor="#ffffffff"
+                ></Button>
+        </LinearLayout>
+        <TextView
+            android:id="@+id/myName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="진동우님, 환영합니다!"
+            android:textColor="#003399"
+            android:textSize="10pt"
+            android:gravity="center"
+            />
+        <Button 
+            android:id="@+id/care"
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:background="#003399"
+            android:text="건강 관리"
+            android:textSize="10pt"
+            android:textColor="#ffffffff"
+            android:layout_gravity="center"
+            android:layout_marginTop="65dp"
+            />
+        <Button 
+            android:id="@+id/sns"
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:background="#003399"
+            android:text="SNS"
+            android:textSize="12pt"
+            android:textColor="#ffffffff"
+            android:layout_gravity="center"
+            android:layout_marginTop="6dp"
+            />
+        <Button 
+            android:id="@+id/log"
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:background="#003399"
+            android:text="최근 기록"
+            android:textSize="10pt"
+            android:textColor="#ffffffff"
+            android:layout_gravity="center"
+            android:layout_marginTop="6dp"
+            />
+        
+        
+        
+        </LinearLayout>
+        </FrameLayout>
+        
+    
+        <FrameLayout 
+    android:id="@+id/writew"
+    android:layout_width="167dp"
+    android:layout_height="262dp"
+    android:layout_marginTop="59dp"
+    android:background="#fff0f8ff"
+    android:visibility="invisible"
+    >
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#0066cc"
+        >
+  
+        <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:orientation="vertical"
+             android:layout_margin="2dp"
+            >
+            <Button 
+                android:id="@+id/cpwnd"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:text="체중"
+                android:textSize="8pt"
+                android:background="#fff0f8ff"
+                android:textColor="#003399"
+                />
+            <Button 
+                android:id="@+id/dnsehdfid"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:text="운동량"
+                android:textSize="8pt"
+                android:background="#fff0f8ff"
+                android:textColor="#003399"
+                android:layout_marginTop="2dp"
+                />
+            <Button 
+                android:id="@+id/dmatlr"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:text="음식"
+                android:textSize="8pt"
+                android:background="#fff0f8ff"
+                android:textColor="#003399"
+                android:layout_marginTop="2dp"
+                />
+            <Button 
+                android:id="@+id/gufekd"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:text="혈당"
+                android:textSize="8pt"
+                android:background="#fff0f8ff"
+                android:textColor="#003399"
+                android:layout_marginTop="2dp"
+                />
+            <Button 
+                android:id="@+id/gufdkq"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:text="혈압"
+                android:textSize="8pt"
+                android:background="#fff0f8ff"
+                android:textColor="#003399"
+                android:layout_marginTop="2dp"
+                />
+            
+        </LinearLayout>
+        ></LinearLayout>
+    
+</FrameLayout>
+    
+</RelativeLayout>
+<!-- From: file:/C:/Users/kill/Documents/카카오톡%20받은%20파일/CareTogether/app/src/main/res/layout/activity_second.xml -->

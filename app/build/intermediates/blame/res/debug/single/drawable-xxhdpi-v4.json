@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Wonjun\\Desktop\\CareTogether (1)\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\gi.png",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\drawable-xxhdpi\\gi.png"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\CareTogether-social2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\gi.png",
+        "source": "C:\\CareTogether-social2\\app\\src\\main\\res\\drawable-xxhdpi\\gi.png"
+    },
+    {
+        "merged": "C:\\CareTogether (1) (1)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\CareTogether (1) (1)\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\CareTogether-social\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\CareTogether-social\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\CareTogether-social5-2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\gi.png",
+        "source": "C:\\CareTogether-social5-2\\app\\src\\main\\res\\drawable-xxhdpi\\gi.png"
+    },
+    {
+        "merged": "C:\\CareTogether-social4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\CareTogether-social4\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\CareTogether\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\CareTogether\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

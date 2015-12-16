@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    
+        
+    <FrameLayout 
+        android:id="@+id/frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#fff0f8ff"
+        >
+        <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:orientation="horizontal"
+            android:background="#0066cc">
+            <Button
+                android:id="@+id/write"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1.3"                
+                android:text="작성"
+                android:textSize="11pt"
+                android:background="#0066cc"
+                android:textColor="#ffffffff"
+                ></Button>
+            <Button
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:layout_weight="1"
+               android:layout_gravity="center"
+               android:text="운동기록\n작성하기"
+               android:textSize="10pt"
+               android:textColor="#003399"
+               android:background="#fff0f8ff"
+                ></Button>
+            <Button
+                android:id="@+id/logout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1.3"             
+                android:text="로그아웃"
+                android:textSize="11pt"
+                android:background="#0066cc"
+                android:textColor="#ffffffff"
+                ></Button>
+        </LinearLayout>
+        
+        
+        
+        <TextView
+            android:id="@+id/myName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:textColor="#003399"
+            android:textSize="10pt"
+            android:gravity="center"
+            />
+        
+        <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="17dp"
+            android:orientation="horizontal"
+            android:background="#0066cc">
+                <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="날짜"
+                android:textSize="5pt"
+                android:background="#ffffff"
+                android:textColor="#0066cc"
+                android:textAlignment="center"
+                />
+                <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="운동명"
+                android:textSize="5pt"
+                android:background="#ffffff"
+                android:textColor="#0066cc"
+                android:textAlignment="center"
+                />
+                <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="운동량"
+                android:textSize="5pt"
+                android:background="#ffffff"
+                android:textColor="#0066cc"
+                android:textAlignment="center"
+                />
+                <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="칼로리"
+                android:textSize="5pt"
+                android:background="#ffffff"
+                android:textColor="#0066cc"
+                android:textAlignment="center"
+                />
+        </LinearLayout>
+        
+        <ListView 
+            android:id="@+id/list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            ></ListView>
+        
+        
+        </LinearLayout>
+        </FrameLayout>
+
+    <!-- write Form -->
+    <FrameLayout 
+    android:id="@+id/writew"
+    android:layout_width="300dp"
+    android:layout_height="500dp"
+    android:visibility="invisible"
+    android:background="#003399"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentEnd="true"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true">
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="2dp"
+        android:background="#fff0f8ff"
+        android:orientation="vertical">
+
+            <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#0066cc"
+            android:orientation="horizontal">
+                <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="정보를 입력하세요."
+                android:textSize="10pt"
+                android:textColor="#ffffffff"
+                />
+                <Button
+                 android:id="@+id/closewrw"
+                 android:text="X"
+                 android:layout_width="match_parent"
+                 android:layout_height="40dp"
+                 android:layout_weight="6"
+                 android:layout_gravity="right"
+                 android:textSize="8pt"
+                 android:textColor="#003399"
+                 android:background="#ffffffff"
+                 />      
+            </LinearLayout>
+
+            <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:orientation="vertical"
+             android:layout_margin="30dp">
+                <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="운동명 : "
+                android:textSize="8pt"
+                android:layout_marginTop="10dp"
+                />
+
+                <Spinner
+                android:id="@+id/exerciseType"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                </Spinner>
+                <!--
+                <EditText
+                android:id="@+id/ei_name"
+                android:layout_width="200dp"
+                android:layout_height="50dp"
+                android:textSize="5pt"
+                android:hint="활동한 운동을 입력하세요."
+                />
+                -->
+                <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="운동량 : "
+                android:textSize="8pt"
+                android:layout_marginTop="10dp"
+                />
+                <EditText
+                android:id="@+id/er_amount"
+                android:layout_width="200dp"
+                android:layout_height="50dp"
+                android:textSize="5pt"
+                android:hint="ex. 10(분)"
+                />
+                <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="칼로리 : "
+                android:textSize="8pt"
+                android:layout_marginTop="10dp"
+                />
+                <EditText
+                android:id="@+id/er_kal"
+                android:layout_width="200dp"
+                android:layout_height="50dp"
+                android:textSize="5pt"
+                android:editable="false"
+                android:hint="운동량을 입력시 자동계산"
+                />
+                <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="날짜: "
+                android:layout_marginTop="10dp"
+                />
+                <EditText
+                android:id="@+id/er_date"
+                android:layout_width="200dp"
+                android:layout_height="50dp"
+                android:textSize="5pt"
+                android:hint="날짜를 입력하세요- yymmdd"
+                />
+                <Button
+                android:id="@+id/send"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:text="작성"
+                android:textSize="10pt"
+                android:layout_marginTop="40dp"
+                android:layout_gravity="center"
+                android:background="#0066cc"
+                android:textColor="#ffffffff"
+                />
+            
+        </LinearLayout>
+        </LinearLayout>
+    
+</FrameLayout>
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/kill/Documents/카카오톡%20받은%20파일/CareTogether/app/src/main/res/layout/exerciselg.xml -->

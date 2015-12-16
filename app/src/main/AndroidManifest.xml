@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.caretogether"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Black.NoTitleBar" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="choooose"></activity>
+        <activity android:name="replyAct"></activity>
+        <activity android:name="sns"></activity>
+        <activity android:name="care"></activity>
+        <activity android:name="care_other"></activity>
+        <activity android:name="weightlog"></activity>
+        <activity android:name="foodlog"></activity>
+        <activity android:name="exerciselog"></activity>
+        <activity android:name="bloodtmplog"></activity>
+        <activity android:name="bsugartmplog"></activity>
+        <activity android:name=".Chart" />
+        <activity android:name=".Chart_other" />
+        <activity android:name="chart.XYChartBuilder" />
+        <activity android:name="chart.PieChartBuilder" />
+        <activity android:name="org.achartengine.GraphicalActivity" />
+        <activity android:name=".GeneratedChartDemo" />
+        <activity android:name="log"/>
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+
+</manifest>
